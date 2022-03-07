@@ -1,4 +1,5 @@
--- Criando as tabelas
+-- []MS202] - Exercício 6
+
 CREATE TABLE university.departamentos(
   cod_dpto serial,
   nome_dpto varchar(50),
